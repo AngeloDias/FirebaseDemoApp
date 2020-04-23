@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253760344954",
+    "firebase_url": "https://fir-demoapp-4dcf3.firebaseio.com",
+    "project_id": "fir-demoapp-4dcf3",
+    "storage_bucket": "fir-demoapp-4dcf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253760344954:android:6ebcaceeff52685da87cc3",
+        "android_client_info": {
+          "package_name": "br.com.training.android.firebasedemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253760344954-mdc2sjuob3td0clmj8be6jad532c2r15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlfeuP9LXdtRo021aCL-pOFj5f0mb6FTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253760344954-mdc2sjuob3td0clmj8be6jad532c2r15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
